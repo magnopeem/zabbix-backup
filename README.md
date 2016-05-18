@@ -18,7 +18,7 @@ Email: <diego@suportecavalcante.com.br>
 
 Descrição: Backup do banco de dados mysql zabbix
 
-###############################################################
+______________________________________________________________
 
 Script: backup.zabbix.frontend
 
