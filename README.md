@@ -10,7 +10,7 @@ Autor: Diego Cavalcante
 
 Data: Dom Mai 01 17:30:32 BRT 2016
 
-Revisão: Wed Mai 18 16:29:00 BRT 2016
+Revisão: Sat Mai 21 13:25:00 BRT 2016
 
 Descrição: Backup do banco de dados mysql zabbix
 
@@ -24,7 +24,7 @@ Autor: Diego Cavalcante
 
 Data: Dom Mai 01 17:30:32 BRT 2016
 
-Revisão: Wed Mai 18 16:29:00 BRT 2016
+Revisão: Sat Mai 21 15:01:00 BRT 2016
 
 Descrição: Backup de arquivos importantes do zabbix e sistema
 
