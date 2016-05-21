@@ -4,7 +4,7 @@ Altere de acordo com o seu ambiente.
 
 Script: backup.zabbix.mysql
 
-Versão: 2.0
+Versão: 3.0
 
 Autor: Diego Cavalcante
 
